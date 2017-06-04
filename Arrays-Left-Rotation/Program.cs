@@ -1,6 +1,3 @@
-﻿//Arrays Left Rotation
-//Marton Kis-Varday 
-//2017
 using System;
 using System.Collections.Generic;
 
