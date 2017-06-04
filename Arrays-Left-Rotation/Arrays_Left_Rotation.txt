@@ -12,7 +12,6 @@ The first line contains two space-separated integers denoting the respective val
 and d (the number of left rotations you must perform). 
 The second line contains n space-separated integers describing the respective elements of the array's initial state.
 
-
 Output Format
 
 Print a single line of n space-separated integers denoting the final state of the array after performing d left rotations.
